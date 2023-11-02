@@ -1,0 +1,6 @@
+"0","#remover
+remove.packages(""e1071"")
+"
+"2","Removing package from ‘C:/Users/proge/AppData/Local/R/win-library/4.3’
+(as ‘lib’ is unspecified)
+"
