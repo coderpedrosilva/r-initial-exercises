@@ -13,7 +13,7 @@ Tarefas:
 
 3. Crie um vetor que armazene números de 1 a 10 e posteriormente imprima valores pares.
 
-4. Women e um dataframe existente no R. Imprima as 10 últimas linhas.
+4. Women é um dataframe existente no R. Imprima as 10 últimas linhas.
 
 5. Use a função plot do R para produzir um gráfico do atributos Sepal.Width e Petal.Length do conjunto de dados Iris. O gráfico deve imprimir apenas das linhas 50 até 100.
 
